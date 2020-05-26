@@ -10,8 +10,10 @@ I am generating a data set with face masks on people and i thought this little b
 
 See the following example
 
+# Before
+
 ![Before:](image.jpeg)
 
 
-
+# After
 ![After:](new.jpg)
